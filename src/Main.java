@@ -79,5 +79,7 @@ public class Main {
         Set<Integer> difference = new TreeSet<>(a);
         difference.removeAll(b);
         System.out.println(difference);
+
+        System.out.println("oKK");
     }
 }
